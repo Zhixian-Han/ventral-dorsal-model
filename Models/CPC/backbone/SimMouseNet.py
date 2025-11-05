@@ -8,7 +8,7 @@ import yaml
 
 from SimMouseNet_network import Network
 from convrnn import ConvGRU
-from LGN import Conv3dLGN_layer, Conv3dLGN
+# from LGN import Conv3dLGN_layer, Conv3dLGN
 
 
 
